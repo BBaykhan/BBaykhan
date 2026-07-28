@@ -7,7 +7,7 @@
 
 <br/>
 
-**Data Engineer & Builder** — turning messy data into reliable pipelines 🛠️
+**System Engineer & Builder** — apps, integrations, pipelines, and everything in between 🛠️
 
 📍 Tokyo, Japan &nbsp;|&nbsp; 🗣️ English / 日本語 / Russian
 
@@ -17,14 +17,43 @@
 
 ## 🧙 About Me
 
-- 🔭 I work on **marketing & membership data platforms** for a retail brand operating across Japan, Korea, UK, Taiwan, and Hong Kong
-- 🧩 I live at the intersection of **data engineering, SQL analytics, and AWS infrastructure**
-- 🕵️ My favorite kind of work: **deep-dive investigations** — tracing data bugs across multiple systems until the root cause has nowhere left to hide
-- 🌱 Currently leveling up toward **full-stack magician** status ✨
+- 🔭 I'm a **system engineer** at a retail brand operating across Japan, Korea, UK, Taiwan, and Hong Kong — one day I'm building an internal web app, the next I'm untangling an API integration or fixing a broken pipeline
+- 🏗️ Currently building an **in-house daily report sharing platform** on AWS Amplify Gen 2 for ~1,000 employees, replacing a paid SaaS subscription
+- 🧩 My toolbox spans **app development, system integration, AWS infrastructure, and SQL analytics** — whatever the problem needs
+- 🕵️ My favorite kind of work: **deep-dive investigations** — tracing bugs across multiple systems until the root cause has nowhere left to hide
+- 🌱 Always leveling up toward **full-stack magician** status ✨
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA%20%2F%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### App Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS AppSync](https://img.shields.io/badge/AppSync-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Amazon EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS KMS](https://img.shields.io/badge/AWS%20KMS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 
 ### Data & Databases
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
@@ -35,35 +64,40 @@
 ![Fivetran](https://img.shields.io/badge/Fivetran-0073FF?style=for-the-badge&logoColor=white)
 ![AWS DMS](https://img.shields.io/badge/AWS%20DMS-0073FF?style=for-the-badge&logoColor=white)
 
-### Cloud & Infrastructure
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Amazon EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS KMS](https://img.shields.io/badge/AWS%20KMS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-
-### Languages & Tools
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA%20%2F%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
 ### APIs & Platforms
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logoColor=white)
 
 ---
 
-## 💼 What I've Been Building
+## 🚀 Featured Project
+
+### 📣 Internal Daily Report Sharing Platform &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/status-in%20development-blue?style=flat-square)
+
+A company-wide platform for **~1,000 employees** to share daily summaries and updates — built in-house to replace a paid third-party SaaS subscription with something better fitted to how the company actually works.
+
+**What I'm building:**
+
+- 🔐 **Enterprise auth** — Cognito user pools with Google OAuth and Microsoft 365 single sign-on, restricted so only company accounts can register
+- 👥 **Org-aware access control** — Cognito group-based roles, department/group filtering, and content visibility rules that follow the organizational hierarchy
+- 📝 **Rich posts** — rich-text editing, media uploads to S3 with progress tracking, comments and reactions, and a per-post "who has seen this" reader list
+- ⚡ **Real-time by design** — GraphQL API on AppSync over DynamoDB, so feeds and notifications stay live
+- 🛠️ **Admin dashboard** — user and permission management, content moderation, and usage analytics
+- 📱 **Mobile next** — React Native apps for iOS and Android sharing the same backend, with push notifications via FCM/APNs and native camera and gallery integration, distributed privately through enterprise app channels
+
+**Stack:** AWS Amplify Gen 2 · React · TypeScript · Vite · AppSync (GraphQL) · DynamoDB · Cognito · S3 · React Native
+
+---
+
+## 💼 Other Work Highlights
 
 | 🧱 Project | ⚙️ What it does | 🔧 Stack |
 |---|---|---|
-| **Membership Rank Data System** | Own the data pipeline behind a multi-country loyalty rank system — tier calculations, per-currency thresholds, and full-history rank recalculation from raw transactions | Redshift · dbt · SQL Server · Fivetran |
-| **Cross-System Bug Investigations** | Led multi-phase SQL investigations to find and remediate customers affected by rank calculation bugs across e-commerce, POS, and CDP systems | SQL · Redshift · SQL Server · Shopify data |
+| **Reward Item Management App** 🎁 | Internal web app for managing customer benefit/reward items on the ebisumart e-commerce platform. Reward items load dynamically from the product catalog by category code, so staff can add new items with zero code changes — replacing a hardcoded item list | PHP · JavaScript · ebisumart · MySQL |
+| **Membership Rank System** | Core maintainer of the system behind a multi-country loyalty rank program — tier calculations, per-currency thresholds, and full-history rank recalculation from raw transactions | Redshift · dbt · SQL Server · Fivetran |
+| **Cross-System Bug Investigations** | Led multi-phase investigations to find and remediate customers affected by rank calculation bugs across e-commerce, POS, and CDP systems | SQL · Redshift · SQL Server · Shopify data |
 | **Serverless File Pipelines** | Event-driven Lambda pipelines for CSV/XLSX processing, S3 file routing, error-folder handling, and SNS notifications | Python · Lambda · S3 · EventBridge · SNS |
 | **CDC & Replication Ops** | Diagnosed and fixed SQL Server CDC capture failures, set up PostgreSQL logical replication into Redshift, and tamed sync costs on large tables | SQL Server CDC · Fivetran · PostgreSQL · AWS DMS |
 | **Secure Data Sharing** | Designed KMS key policies and restrictive S3 bucket policies for safe cross-account vendor data delivery | KMS · S3 · IAM · Redshift UNLOAD |
@@ -74,9 +108,11 @@
 ## 🧠 Things I'm Good At
 
 ```text
+🏗️ Full-stack delivery     — from Cognito auth flows to GraphQL schemas to the UI on top
 🔍 Root-cause analysis      — following a bug through 3+ systems until the "why" is airtight
+🔌 System integration       — APIs, webhooks, vendor platforms, and the glue code between them
 🧮 Complex SQL              — window functions, anti-joins, cross-database reconciliation
-🌏 Multi-region data        — currencies, timezones (JST!), CJK encodings, country-specific logic
+🌏 Multi-region systems     — currencies, timezones (JST!), CJK encodings, country-specific logic
 🚒 Production firefighting  — CDC outages, broken S3 events, replication conflicts, ERP replacement, EC site replacement
 🤝 Vendor communication     — writing clear technical bug reports (in English and Japanese)
 ```
@@ -102,7 +138,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/bobirjon-boykhonov-706181304/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobirjon-boykhonov-706181304/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bobur.Baykhanov@gmail.com)
 
 <br/>
