@@ -21,6 +21,7 @@
 - 🏗️ Currently building an **in-house daily report sharing platform** on AWS Amplify Gen 2 for ~1,000 employees, replacing a paid SaaS subscription
 - 🧩 My toolbox spans **app development, system integration, AWS infrastructure, and SQL analytics** — whatever the problem needs
 - 🕵️ My favorite kind of work: **deep-dive investigations** — tracing bugs across multiple systems until the root cause has nowhere left to hide
+- 📜 **AWS Certified AI Practitioner** — Cloud Practitioner exam booked, Solutions Architect Associate next
 - 🌱 Always leveling up toward **full-stack magician** status ✨
 
 ---
@@ -30,12 +31,19 @@
 <div align="center">
 
 <a href="https://skillsprofile.skillbuilder.aws/user/baykhanbob">
-  <img height="110" src="assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" />
+  <img height="120" src="assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" />
 </a>
 
 <br/>
 
-**AWS Certified AI Practitioner** &nbsp;·&nbsp; ![Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-studying-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+**AWS Certified AI Practitioner**
+
+<br/>
+
+**On the way ⬇️**
+
+![Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-exam%20booked-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-studying-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 <br/>
 
@@ -64,6 +72,8 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
@@ -115,13 +125,14 @@ A company-wide platform for **~1,000 employees** to share daily summaries and up
 
 | 🧱 Project | ⚙️ What it does | 🔧 Stack |
 |---|---|---|
+| **Warehouse Inventory Desktop App** 📦 | Two-in-one internal tool used daily by two teams, shipped to Windows machines as a packaged executable with self-updating builds. **CSV Viewer** *(in use)*: read-only browser over years of archived warehouse data covering every domestic inbound and outbound movement — online customer orders and shipments plus deliveries to all physical stores. Config-driven folder definitions, cross-history search backed by S3-event Lambdas that maintain per-folder indexes, product-code conversion against master data, and styled Excel/CSV export. **Store Allocation (店舗売り分け)** *(in development)*: replaces a large legacy Excel macro system, allocating stock across store-to-warehouse shipments for domestic **and** international stores against each country's own warehouses — merging SQL Server, warehouse spreadsheets, e-gift orders, and pending deliveries into a single grid. Access and export events logged to DynamoDB | Python · Streamlit · PyInstaller · S3 · Lambda · DynamoDB · SQL Server |
 | **Reward Item Management App** 🎁 | Internal web app for managing customer benefit/reward items on the ebisumart e-commerce platform. Reward items load dynamically from the product catalog by category code, so staff can add new items with zero code changes — replacing a hardcoded item list | PHP · JavaScript · ebisumart · MySQL |
 | **Membership Rank System** | Core maintainer of the system behind a multi-country loyalty rank program — tier calculations, per-currency thresholds, and full-history rank recalculation from raw transactions | Redshift · dbt · SQL Server · Fivetran |
 | **Cross-System Bug Investigations** | Led multi-phase investigations to find and remediate customers affected by rank calculation bugs across e-commerce, POS, and CDP systems | SQL · Redshift · SQL Server · Shopify data |
 | **Serverless File Pipelines** | Event-driven Lambda pipelines for CSV/XLSX processing, S3 file routing, error-folder handling, and SNS notifications | Python · Lambda · S3 · EventBridge · SNS |
 | **CDC & Replication Ops** | Diagnosed and fixed SQL Server CDC capture failures, set up PostgreSQL logical replication into Redshift, and tamed sync costs on large tables | SQL Server CDC · Fivetran · PostgreSQL · AWS DMS |
 | **Secure Data Sharing** | Designed KMS key policies and restrictive S3 bucket policies for safe cross-account vendor data delivery | KMS · S3 · IAM · Redshift UNLOAD |
-| **Retail Ops Automation** | Excel/VBA tooling for order backlog forecasting and multi-store delivery planning across domestic and international retail stores | VBA · Excel · SQL |
+| **Retail Ops Automation** | Excel/VBA tooling for order backlog forecasting and multi-store delivery planning across domestic and international retail stores — the legacy system the store allocation tool above is built to replace | VBA · Excel · SQL |
 
 ---
 
