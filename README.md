@@ -25,6 +25,26 @@
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+
+<a href="https://skillsprofile.skillbuilder.aws/user/baykhanbob">
+  <img height="110" src="assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" />
+</a>
+
+<br/>
+
+**AWS Certified AI Practitioner** &nbsp;·&nbsp; ![Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-studying-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+<br/>
+
+[![AWS Skills Profile](https://img.shields.io/badge/View%20my%20AWS%20Skills%20Profile-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](https://skillsprofile.skillbuilder.aws/user/baykhanbob)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
