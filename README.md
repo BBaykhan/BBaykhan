@@ -88,7 +88,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-five-beryl-17.vercel.app/api?username=BBaykhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-five-beryl-17.vercel.app/?username=BBaykhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-five-beryl-17.vercel.app/api/top-langs/?username=BBaykhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/><br/>
 
