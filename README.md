@@ -29,32 +29,38 @@
 ## 🏅 Certifications
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://skillsprofile.skillbuilder.aws/user/baykhanbob">
+          <img height="120" src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" />
+        </a>
+        <br />
+        <strong>AWS Certified Cloud Practitioner</strong>
+      </td>
+      <td align="center">
+        <a href="https://skillsprofile.skillbuilder.aws/user/baykhanbob">
+          <img height="120" src="assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" />
+        </a>
+        <br />
+        <strong>AWS Certified AI Practitioner</strong>
+      </td>
+    </tr>
+  </table>
+  <br />
+  <strong>On the way ⬇️</strong>
+  
+  <br/>
 
-<a href="https://skillsprofile.skillbuilder.aws/user/baykhanbob">
-  <img height="120" src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" />
-</a>
-
-
-**AWS Certified Cloud Practitioner**
-
-
-<a href="https://skillsprofile.skillbuilder.aws/user/baykhanbob">
-  <img height="120" src="assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" />
-</a>
-
-<br/>
-
-**AWS Certified AI Practitioner**
-
-<br/>
-
-**On the way ⬇️**
-
-![Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-studying-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-
-<br/>
-
-[![AWS Skills Profile](https://img.shields.io/badge/View%20my%20AWS%20Skills%20Profile-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](https://skillsprofile.skillbuilder.aws/user/baykhanbob)
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-studying-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Solutions Architect Associate - studying" />
+  
+  <br/>
+  
+  <a href="https://skillsprofile.skillbuilder.aws/user/baykhanbob">
+    <img src="https://img.shields.io/badge/View%20my%20AWS%20Skills%20Profile-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="View my AWS Skills Profile" />
+  </a>
+  
+  <br/>
 
 </div>
 
