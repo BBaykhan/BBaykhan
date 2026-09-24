@@ -31,6 +31,18 @@
 <div align="center">
 
 <a href="https://skillsprofile.skillbuilder.aws/user/baykhanbob">
+  <img height="120" src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" />
+</a>
+
+<br/>
+
+**AWS Certified Cloud Practitioner**
+
+<br/>
+
+<div align="center">
+
+<a href="https://skillsprofile.skillbuilder.aws/user/baykhanbob">
   <img height="120" src="assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" />
 </a>
 
@@ -42,7 +54,6 @@
 
 **On the way ⬇️**
 
-![Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-exam%20booked-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-studying-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 <br/>
