@@ -34,13 +34,9 @@
   <img height="120" src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" />
 </a>
 
-<br/>
 
 **AWS Certified Cloud Practitioner**
 
-<br/>
-
-<div align="center">
 
 <a href="https://skillsprofile.skillbuilder.aws/user/baykhanbob">
   <img height="120" src="assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" />
